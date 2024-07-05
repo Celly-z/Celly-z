@@ -7,12 +7,10 @@ I'm a software tester (QA), working with software testing and getting started wi
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a degree in aesthetics.
 
-![Celly-z GitHub stats](https://github-readme-stats.vercel.app/api?username=Celly-z&theme=ambient_gradient&show_icons=true&count_private=true&include_all_commits=true)
-
 
 <div align="right">
     <a href="https://picasion.com/">
-        <img src="https://i.picasion.com/pic92/286b39ebbfec12b37a961b8c2752332d.gif" width="300" height="300" border="0" alt="https://picasion.com/" />
+        <img src="https://i.picasion.com/pic92/286b39ebbfec12b37a961b8c2752332d.gif" width="300" height="300" border="0" alt="https://picasion.com/"/>
     </a>
     <br />
     <a href="https://picasion.com/"></a>
