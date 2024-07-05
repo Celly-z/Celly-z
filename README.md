@@ -17,3 +17,8 @@ I'm a software tester (QA) with experience in manual testing and currently learn
 </div>
 
 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>
+          
+
