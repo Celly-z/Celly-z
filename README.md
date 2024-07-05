@@ -7,9 +7,7 @@ I'm a software tester (QA), working with software testing and getting started wi
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a degree in aesthetics.
 
-![Celly-z GitHub stats](https://github-readme-stats.vercel.app/api?username=Celly-z&theme=ambient_gradient&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Celly-z GitHub stats](https://github-readme-stats.vercel.app/api?username=Celly-z&theme=ambient_gradient&show_icons=true&count_private=true&include_all_commits=true)
 
 
 <div align="right">
