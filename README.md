@@ -12,11 +12,6 @@ I'm a software tester (QA) with experience in manual testing and currently learn
 
   <!-- Primeira coluna: GIF animado e estatísticas do GitHub -->
   <div style="flex-basis: 45%; margin-right: 20px;">
-    <div align="right">
-      <a href="https://picasion.com/">
-        <img src="https://i.picasion.com/pic92/286b39ebbfec12b37a961b8c2752332d.gif" width="300" height="300" border="0" alt="Avatar Programming"/>
-      </a>
-    </div>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Celly-z&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
   </div>
@@ -29,3 +24,10 @@ I'm a software tester (QA) with experience in manual testing and currently learn
     </p>
   </div>
 </div>
+
+
+ <div align="right">
+      <a href="https://picasion.com/">
+        <img src="https://i.picasion.com/pic92/286b39ebbfec12b37a961b8c2752332d.gif" width="300" height="300" border="0" alt="Avatar Programming"/>
+      </a>
+    </div>
