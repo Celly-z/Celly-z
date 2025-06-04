@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software tester (QA) with experience in manual testing and currently learning automation using Cypress.
+I'm a software tester (QA) with experience in manual testing and automation using Cypress.
 
 - 🔭 I’m currently working on software testing (QA).
 - 🌱 I’m currently learning automation with Cypress.
